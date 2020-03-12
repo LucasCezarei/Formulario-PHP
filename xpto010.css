@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f4f4f4;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+/*
+    color: #212b32;
+    font-family: 'Din',sans-serif;
+    font-size: 14px;
+
+
+
+*/
+
+
+
+
+
+
+form {
+    background-color: #fffefe;
+    color: #212b32;
+    width: 600px;
+    margin: auto;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+
+}
+
+
